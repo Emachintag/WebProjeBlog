@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj": {}
+    "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj": {
+    "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
         "projectName": "EmachintagBlog.Client.WebApp",
-        "projectPath": "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
+        "projectPath": "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
         "packagesPath": "C:\\Users\\Elmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
