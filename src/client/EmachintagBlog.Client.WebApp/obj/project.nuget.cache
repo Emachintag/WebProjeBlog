@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5ZJ0txTSVwgnDHcmOzm5iHKJ1TfePAJBG4A5MkScw7NM0VBznTKUJ5T9BdFWgZ+Xb73Yt/RkyNMXqUSWQ3olA==",
+  "dgSpecHash": "su940Z9ePaNFFuGHQpyho0r9mi5DmINBSNzeYoeHyBv3INNjOnCq2kTuf2aZ5QhQuFzZU2pjLB6qj71HQLDkbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elmar\\Documents\\EmachintagBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Elmar\\Documents\\WebProjeBlog\\src\\client\\EmachintagBlog.Client.WebApp\\EmachintagBlog.Client.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elmar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Elmar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.13\\microsoft.aspnetcore.cryptography.internal.5.0.13.nupkg.sha512",

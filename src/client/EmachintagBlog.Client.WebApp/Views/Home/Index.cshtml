@@ -65,7 +65,7 @@
             <img src="~/Images/Abouts/@aboutDetail.ImagePath" alt="" data-rjs="2" style="width: 50%; border-radius: 50%;">
             <h2>@aboutDetail.FullName</h2>
             @{ var aboutMessage = aboutDetail.Message.Length > 20 ? aboutDetail.Message.Substring(0, 20) : aboutDetail.Message;}
-            <p>@aboutMessage</p>
+          
             <div class="social">
 
                 @if (aboutDetail.TwitterLink != null)
