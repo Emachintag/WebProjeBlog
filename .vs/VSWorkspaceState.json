@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\client",
+    "\\src\\client\\EmachintagBlog.Client.WebApp",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Views",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Views\\Home"
   ],
-  "SelectedNode": "\\EmachintagBlog.sln",
+  "SelectedNode": "\\src\\client\\EmachintagBlog.Client.WebApp\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
