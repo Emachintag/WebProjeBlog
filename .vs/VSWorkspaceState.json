@@ -4,9 +4,14 @@
     "\\src",
     "\\src\\client",
     "\\src\\client\\EmachintagBlog.Client.WebApp",
-    "\\src\\client\\EmachintagBlog.Client.WebApp\\Views",
-    "\\src\\client\\EmachintagBlog.Client.WebApp\\Views\\Home"
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Areas",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Areas\\Admin",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Areas\\Admin\\Views",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Areas\\Admin\\Views\\Blog",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Common",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Common\\Core",
+    "\\src\\client\\EmachintagBlog.Client.WebApp\\Models"
   ],
-  "SelectedNode": "\\src\\client\\EmachintagBlog.Client.WebApp\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\src\\client\\EmachintagBlog.Client.WebApp\\Areas\\Admin\\Views\\Blog\\Edit.cshtml",
   "PreviewInSolutionExplorer": false
 }
